@@ -6,7 +6,7 @@
 
 
 
-![Gabriel Felipe's github stats](https://github-readme-stats.vercel.app/api?username=gabrielfelipeg&show_icons=true&theme=highcontrast&count_private=true)
+![Gabriel Felipe's github stats](https://github-readme-stats.vercel.app/api?username=gabrielfelipeg&show_icons=true&theme=calm&count_private=true)
 
 
 <a href="https://www.linkedin.com/in/gabrielfelipelll">
